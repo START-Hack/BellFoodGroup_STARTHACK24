@@ -23,17 +23,17 @@ We would like to support our employees in the following factors wherever possibl
 
 ### Expected Final Product
 We expect a virtual coach as a companion for our employees. It is important to note that we have employees in the administration as well as in the production environment. This coach should be a daily companion for everydays life which can be used during work or leisure time.
-##	Functionalities
+####	Functionalities
 It should be possible to divide the range of functions into two main areas:
-#	Function 1: Vital-Mentor 
+#####	Function 1: Vital-Mentor 
 Employees receive support in the areas described above, suggestions, advice and assistance. This should be implemented as counselling, coaching or general support with knowledge, experience, etc.
-#	Function 2: Persona-Sim / Avatar
+#####	Function 2: Persona-Sim / Avatar
 The avatar reacts to the behavior, interactions and inputs of the employees and simulates the result. It shows the behavior directly as a reflection and hanges based on the behavior, input and interactions with other people. "What if" questions should also be asked and simulated.
-##	Dimensions
+####	Dimensions
 Two dimensions should be considered in the solution
-#	Dimension 1: Personal
+#####	Dimension 1: Personal
 The focus lies on the personal perspective with its own benefits and further development for the individual. The utilization should be designed in such a way that it constantly motivates the user with various challenges and playful elements. The learning factor should not be neglected either.
-#	Dimension 2: Social
+#####	Dimension 2: Social
 The social aspect between employees must also be considered and is very important. It should be possible to interact and exchange ideas with other employees. What this mutual interaction between employees should look like is totally up to you and is not predetermined.
 ### Data
 Text
