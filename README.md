@@ -5,7 +5,21 @@
 ## <p align="center"> Case Introduction: </p>
 
 ### Problem
-Text
+"Healthy and happy employees are good employees". This guiding principle is very important to us - a sustainable company that operates throughout Europe.
+There is a lot of change in today's VUCA world. Everything is changing, there is a lot of hustle and bustle and influencing factors from all sides.
+
+As an employer, we are obliged to fulfil our responsibility towards our employees in this environment. The difficulty in our group lies on the one hand in the geographical expansion and on the variety of multiple locations and cultures on the other hand. A great deal of coordination is required to do justice to all people and their health and well-being needs.
+
+We would like to support our employees in the following factors wherever possible: 
+-	health
+-	nutrition
+-	exercise
+-	well-being
+-	work place design
+-	resilience
+-	mindfulness
+-	social interactions
+-	and much more
 
 ### Expected Final Product
 Text
