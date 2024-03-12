@@ -63,17 +63,17 @@ he cultures are very different and so are the various fields of activity of the 
   
 ## <p align="center"> Judging Criteria: </p> 
 
-### - Presentation delivered (40 %)
+### Presentation delivered (40 %)
 •	The presentation is understandable and visually appealing
 •	The pitch is delivered in the given time
 •	The pitch is well done, understandable and engaging
 
-### - Execution of the requirements (20 %)
+### Execution of the requirements (20 %)
 •	The functionalities are implemented
 •	The dimensions are implemented
 •	The requirements for the functions are fulfilled
 
-### - Creativity, innovation and vision (30 %)
+### Creativity, innovation and vision (30 %)
 •	Design
 •	Solution ideas
 •	Creativity
@@ -84,9 +84,11 @@ he cultures are very different and so are the various fields of activity of the 
 •	Design of the application
 
 ## <p align="center"> Point of Contact: </p> 
-Sven Friedli, CIO, LinkedIn, Mail
-Maria Horvath, Talent Acquisition Manager, LinkedIn, Mail
-Markus Ettlin, Head of Smart Technologies, LinkedIn, Mail
+<img src="images/Linkedin_Sven.jpg" alt="Sven" height="100"> Sven Friedli, CIO, [LinkedIn](https://www.linkedin.com/in/sven-friedli-454265121/), [Mail](mailto:Sven.Friedli@bellfoodgroup.com)
+<img src="images/Linkedin_Maria.jpg" alt="Maria" height="100"> Maria Horvath, Talent Acquisition Manager, [LinkedIn](https://www.linkedin.com/in/horvathmaria/), [Mail](mailto:Maria.horvath@bellfoodgroup.com)
+<img src="images/Linkedin_Markus.jpg" alt="Markus" height="100"> Markus Ettlin, Head of Smart Technologies, [LinkedIn](https://www.linkedin.com/in/markusettlin/), [Mail](mailto:markus.ettlin@bellfoodgroup.com)
+
+Also with us are Selina, Anabelle, Alessia, Daniel, Marco, Frank, and Alvaro
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 A weekend get-away trip to Budapest in Hungary to one of our production plants combined with tickets to the Sziget Festival in August 2024! 
