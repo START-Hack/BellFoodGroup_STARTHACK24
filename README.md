@@ -35,35 +35,15 @@ Two dimensions should be considered in the solution
 The focus lies on the personal perspective with its own benefits and further development for the individual. The utilization should be designed in such a way that it constantly motivates the user with various challenges and playful elements. The learning factor should not be neglected either.
 #####	Dimension 2: Social
 The social aspect between employees must also be considered and is very important. It should be possible to interact and exchange ideas with other employees. What this mutual interaction between employees should look like is totally up to you and is not predetermined.
-### Data
-Text
 
-#### 1. Greenhouse gas emissions and energy
-Text
-
-#### 2. Water
-Text
-
-#### 3. Disposal and recycling
-Text
-
-#### 4. Ecosystems
-Text
-
-#### 5. Animal welfare
-Text
-
-#### 6. Safety and health in the workplace 
-Text
-
-#### 7. Conditions of employment (social sustainability) As an attractive employer
-Text
-
-#### 8. Governance
-Text
+## Data
+Any available data sources are conceivable. It can be various data on nutrition, health, workouts etc. which are available. We provide an anonymized data set of a typical plant with the following information:
+-	number of employees
+-	age structure
+-	mapping of the organization
 
 ### Technology
-Text
+The technology for development is not defined. The only requirement is that the application works on standard smartphones and can be used by 15,000+ users during operation.
 
 ## <p align="center"> The Pitch: </p>
 
@@ -74,28 +54,39 @@ Here you will find the presentation:
 Here you will find the detailed Information from the deep dive presentation:
 
 ## <p align="center"> Further Information: </p>
-Text
+The Bell Food Group is a manufacturing company within the food industry. In fact, we are one of the leading processors of meat and convenience products in Europe as well as a market leader in Switzerland. Our sites are spread across 15 countries within Europe. 
+he cultures are very different and so are the various fields of activity of the employees. It is important to us that the solution is designed in such a way that it can be used by all our employees in various departments and across all levels.
 
 ##  <p align="center"> Resources: </p>
-Text
+-	For a detailed insight into our business here is the Annual report Bell Food Group 2023 "LINK"
+-	Here is the dataset with the example Information about the Personal structure in one of our sites "LINK"
   
 ## <p align="center"> Judging Criteria: </p> 
 
-### - Number of different UseCases integrate in the App (50 %)
-Text
+### - Presentation delivered (40 %)
+•	The presentation is understandable and visually appealing
+•	The pitch is delivered in the given time
+•	The pitch is well done, understandable and engaging
 
-### - Feasibility and Usability (20 %)
-Text
+### - Execution of the requirements (20 %)
+•	The functionalities are implemented
+•	The dimensions are implemented
+•	The requirements for the functions are fulfilled
 
-### - Creativity, Innovation and Vision (20 %)
-Text
+### - Creativity, innovation and vision (30 %)
+•	Design
+•	Solution ideas
+•	Creativity
+•	Technologies used
 
-### - Delivered Presentation (10 %)
-Text
+### - User-friendliness (10 %)
+•	Operation of the application
+•	Design of the application
 
 ## <p align="center"> Point of Contact: </p> 
-Text
+Sven Friedli, CIO, LinkedIn, Mail
+Maria Horvath, Talent Acquisition Manager, LinkedIn, Mail
+Markus Ettlin, Head of Smart Technologies, LinkedIn, Mail
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
-
-Text und Bilder
+A weekend get-away trip to Budapest in Hungary to one of our production plants combined with tickets to the Sziget Festival in August 2024! 
