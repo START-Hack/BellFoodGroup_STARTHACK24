@@ -37,11 +37,11 @@ The focus lies on the personal perspective with its own benefits and further dev
 The social aspect between employees must also be considered and is very important. It should be possible to interact and exchange ideas with other employees. What this mutual interaction between employees should look like is totally up to you and is not predetermined.
 
 ## Data
-Any available data sources are conceivable. It can be various data on nutrition, health, workouts etc. which are available. We provide an anonymized data set of a typical plant with the following information:
+Any available data sources are conceivable. It can be various data on nutrition, health, workouts etc. which are available. We provide an anonymized data set of a typical plants with the following information:
 -	number of employees
 -	age structure
 -	mapping of the organization
-
+Here you will find the Data [Sample Data of typical productio plants](Sample Data of typical production plants.xlsx)
 ### Technology
 The technology for development is not defined. The only requirement is that the application works on standard smartphones and can be used by 15,000+ users during operation.
 
