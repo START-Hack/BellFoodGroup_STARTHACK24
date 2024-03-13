@@ -64,24 +64,24 @@ he cultures are very different and so are the various fields of activity of the 
 ## <p align="center"> Judging Criteria: </p> 
 
 ### Presentation delivered (40 %)
-<img •	The presentation is understandable and visually appealing
-<img •	The pitch is delivered in the given time
-<img •	The pitch is well done, understandable and engaging
+- The presentation is understandable and visually appealing
+- The pitch is delivered in the given time
+- The pitch is well done, understandable and engaging
 
 ### Execution of the requirements (20 %)
-•	The functionalities are implemented
-•	The dimensions are implemented
-•	The requirements for the functions are fulfilled
+- The functionalities are implemented
+- The dimensions are implemented
+- The requirements for the functions are fulfilled
 
 ### Creativity, innovation and vision (30 %)
-•	Design
-•	Solution ideas
-•	Creativity
-•	Technologies used
+- Design
+- Solution ideas
+- Creativity
+- Technologies used
 
 ### User-friendliness (10 %)
-•	Operation of the application
-•	Design of the application
+- Operation of the application
+- Design of the application
 
 ## <p align="center"> Point of Contact: </p> 
 
