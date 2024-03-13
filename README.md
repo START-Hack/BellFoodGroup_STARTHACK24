@@ -86,7 +86,7 @@ he cultures are very different and so are the various fields of activity of the 
 ## <p align="center"> Point of Contact: </p> 
 
 <img src="Images/Linkedin_Sven.jpg" alt="Sven" height="100"> Sven Friedli, CIO, [LinkedIn](https://www.linkedin.com/in/sven-friedli-454265121/), [Mail](mailto:Sven.Friedli@bellfoodgroup.com)
-<img src="images/Linkedin_Maria.jpg" alt="Maria" height="100"> Maria Horvath, Talent Acquisition Manager, [LinkedIn](https://www.linkedin.com/in/horvathmaria/), [Mail](mailto:Maria.horvath@bellfoodgroup.com)
+<img src="Images/Linkedin_Maria.jpg" alt="Maria" height="100"> Maria Horvath, Talent Acquisition Manager, [LinkedIn](https://www.linkedin.com/in/horvathmaria/), [Mail](mailto:Maria.horvath@bellfoodgroup.com)
 <img src="images/Linkedin_Markus.jpg" alt="Markus" height="100"> Markus Ettlin, Head of Smart Technologies, [LinkedIn](https://www.linkedin.com/in/markusettlin/), [Mail](mailto:markus.ettlin@bellfoodgroup.com)
 
 Also with us are Selina, Anabelle, Alessia, Daniel, Marco, Frank, and Alvaro
