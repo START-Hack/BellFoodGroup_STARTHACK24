@@ -41,7 +41,8 @@ Any available data sources are conceivable. It can be various data on nutrition,
 -	number of employees
 -	age structure
 -	mapping of the organization
-Here you will find the Data ([Sample Data of typical production plants.xlsx](https://github.com/START-Hack/BellFoodGroup_STARTHACK24/blob/aaffb7659f7a9657b78dc5ea953d699377fbe0f9/Sample%20Data%20of%20typical%20production%20plants.xlsx))
+
+Here you will find the Data [Sample Data of typical production plants.xlsx](https://github.com/START-Hack/BellFoodGroup_STARTHACK24/blob/aaffb7659f7a9657b78dc5ea953d699377fbe0f9/Sample%20Data%20of%20typical%20production%20plants.xlsx)
 ### Technology
 The technology for development is not defined. The only requirement is that the application works on standard smartphones and can be used by 15,000+ users during operation.
 
