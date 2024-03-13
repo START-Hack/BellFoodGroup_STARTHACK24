@@ -58,7 +58,7 @@ The Bell Food Group is a manufacturing company within the food industry. In fact
 he cultures are very different and so are the various fields of activity of the employees. It is important to us that the solution is designed in such a way that it can be used by all our employees in various departments and across all levels.
 
 ##  <p align="center"> Resources: </p>
--	For a detailed insight into our business here is the Annual report Bell Food Group 2023 "LINK"
+-	For a detailed insight into our business here is the [Annual report Bell Food Group 2023](https://github.com/START-Hack/BellFoodGroup_STARTHACK24/blob/a1277c99157871a4a3bacc089787380c374447e5/Annual%20report%20Bell%20Food%20Group%202023.pdf)
 -	Here is the dataset with the example Information about the Personal structure in typical plants [Sample Data of typical production plants.xlsx](https://github.com/START.Hack/BellFoodGroup_STARTHACK24/blob/aaffb7659f7a9657b78dc5ea953d699377fbe0f9/Sample%20Data%20of%20typical%20production%20plants.xlsx)
 ## <p align="center"> Judging Criteria: </p> 
 
