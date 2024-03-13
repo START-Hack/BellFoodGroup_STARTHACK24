@@ -96,4 +96,4 @@ Also with us are Selina, Anabelle, Alessia, Daniel, Marco, Frank, and Alvaro
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 A weekend get-away trip to Budapest in Hungary to one of our production plants combined with tickets to the Sziget Festival in August 2024! 
 
-<p align="center"> <img src="Images/Budapest.jpgg" alt="Budapest" height="180"> <img src="Images/Sziget.png" alt="Sziget Festival" height="180"> <img src="Images/Eisberg Ungarn.jpg" alt="Eisberg" height="180">
+<p align="center"> <img src="Images/Budapest.jpg" alt="Budapest" height="180"> <img src="Images/Sziget.png" alt="Sziget Festival" height="180"> <img src="Images/Eisberg Ungarn.jpg" alt="Eisberg" height="180">
