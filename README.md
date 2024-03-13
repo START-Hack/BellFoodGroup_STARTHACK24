@@ -1,6 +1,6 @@
 # <p align="center"> START Hack 2024 - Bell Food Group Case </p>
 
-???Bilder vom Preis???
+<p align="center"> <img src="Images/Banner.png" alt="Madrid" width="800">
 
 ## <p align="center"> Case Introduction: </p>
 
