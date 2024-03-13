@@ -79,7 +79,7 @@ he cultures are very different and so are the various fields of activity of the 
 •	Creativity
 •	Technologies used
 
-### - User-friendliness (10 %)
+### User-friendliness (10 %)
 •	Operation of the application
 •	Design of the application
 
