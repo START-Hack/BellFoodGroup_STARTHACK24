@@ -4,8 +4,6 @@
 
 ## <p align="center"> Case Introduction: </p>
 
-<iframe width="480" height="270" src="https://www.powtoon.com/embed/eL7rEB1mEsb/" frameborder="0" allowfullscreen></iframe>
-
 ### Problem
 "Healthy and happy employees are good employees". This guiding principle is very important to us - a sustainable company that operates throughout Europe.
 There is a lot of change in today's VUCA world. Everything is changing, there is a lot of hustle and bustle and influencing factors from all sides.
@@ -49,7 +47,7 @@ The technology for development is not defined. The only requirement is that the 
 
 ## <p align="center"> The Pitch: </p>
 
-Here you will find the presentation:
+Here you will find the [Pitch Video](https://www.powtoon.com/c/eL7rEB1mEsb/2/m)
 
 ## <p align="center"> Deep Dive Slides: </p>
 
