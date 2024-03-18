@@ -51,7 +51,7 @@ Here you will find the [Pitch Video](https://www.powtoon.com/c/eL7rEB1mEsb/2/m)
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-Here you will find the detailed Information from the [deep dive presentation](https://github.com/START-Hack/BellFoodGroup_STARTHACK24/blob/8aabc0a2bec3eb11635dad8748656f6ecfc8c39b/20240320_Bell%20Food%20Group_DeepdiveHackCase.pdf))
+Here you will find the detailed Information from the [deep dive presentation](https://github.com/START-Hack/BellFoodGroup_STARTHACK24/blob/8aabc0a2bec3eb11635dad8748656f6ecfc8c39b/20240320_Bell%20Food%20Group_DeepdiveHackCase.pdf)
 
 ## <p align="center"> Further Information: </p>
 The Bell Food Group is a manufacturing company within the food industry. In fact, we are one of the leading processors of meat and convenience products in Europe as well as a market leader in Switzerland. Our sites are spread across 15 countries within Europe. 
