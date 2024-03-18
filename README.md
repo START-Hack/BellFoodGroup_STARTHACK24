@@ -97,4 +97,4 @@ A weekend get-away trip to Budapest in Hungary to one of our production plants c
 Here you find more Infomration about the [Sziget Festival](https://szigetfestival.com/en/)
 
 GOOD LUCK with the case, we hope to see as many participants as possible working on this challenge! 
-<p align="center"> <img src="Images/Budapest.jpg" alt="Budapest" height="150"> <img src="Images/Sziget.png" alt="Sziget Festival" height="150"> <img src="Images/Eisberg Ungarn.jpg" alt="Eisberg" height="150">
+<p align="center"> <img src="Images/Budapest.jpg" alt="Budapest" height="150"> <img src="Images/Sziget.png" alt="Sziget Festival" height="150"> <img src="Images/Eisberg Ungarn Produktion.jpg" alt="Eisberg" height="150">
