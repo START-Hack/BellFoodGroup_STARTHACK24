@@ -93,7 +93,7 @@ he cultures are very different and so are the various fields of activity of the 
 Also with us are Selina, Anabelle, Alessia, Daniel, Marco, Frank, and Alvaro
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
-A weekend get-away trip to Budapest in Hungary to one of our production plants combined with tickets to the Sziget Festival in August 2024!
+A weekend get-away trip to Budapest in Hungary to one of our production plants combined with tickets to the Sziget Festival 8. - 11. August 2024!
 Here you find more Infomration about the [Sziget Festival](https://szigetfestival.com/en/)
 
 GOOD LUCK with the case, we hope to see as many participants as possible working on this challenge! 
