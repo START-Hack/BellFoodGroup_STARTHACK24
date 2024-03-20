@@ -59,7 +59,7 @@ he cultures are very different and so are the various fields of activity of the 
 
 ##  <p align="center"> Resources: </p>
 -	For a detailed insight into our business here is the [Annual report Bell Food Group 2023](https://github.com/START-Hack/BellFoodGroup_STARTHACK24/blob/a1277c99157871a4a3bacc089787380c374447e5/Annual%20report%20Bell%20Food%20Group%202023.pdf)
--	Here is the dataset with the example Information about the Personal structure in typical plants [Sample Data of typical production plants.xlsx](https://github.com/START.Hack/BellFoodGroup_STARTHACK24/blob/aaffb7659f7a9657b78dc5ea953d699377fbe0f9/Sample%20Data%20of%20typical%20production%20plants.xlsx)
+-	Here is the dataset with the example Information about the Personal structure in typical plants [Sample Data of typical production plants.xlsx](https://github.com/START-Hack/BellFoodGroup_STARTHACK24/blob/066dbe0468314fcb160b2a0f5d64ade072d861d3/Sample%20Data%20of%20typical%20production%20plants.xlsx)
 ## <p align="center"> Judging Criteria: </p> 
 
 ### Presentation delivered (40 %)
